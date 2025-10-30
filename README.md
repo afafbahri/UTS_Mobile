@@ -59,6 +59,3 @@ Setiap pengguna dapat **melakukan registrasi dan login**, lalu mengakses koleksi
 5. **Logout**  
    - Tekan ikon **Logout** di kanan atas halaman Home untuk keluar dari akun.  
    - Data wishlist tetap tersimpan dan akan muncul lagi saat login ulang.  
-
-git clone https://github.com/username/PageUp.git
-cd PageUp
